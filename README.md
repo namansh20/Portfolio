@@ -34,6 +34,6 @@ The portfolio project makes use of several open-source libraries and resources, 
 
 # Contact
 
-If you have any questions or would like to connect, feel free to reach out to me. You can find my contact information on my portfolio or reach me via email at [rajjaiswal2060@gmail.com].
+If you have any questions or would like to connect, feel free to reach out to me. You can find my contact information on my portfolio or reach me via email at [shahnaman321@gmail.com].
 
 ## Thank you for checking out my portfolio project!
