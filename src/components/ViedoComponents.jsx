@@ -8,6 +8,7 @@
   // import viedo from "../assets/viedo.mp4";
   import viedo1 from "../assets/video2.mp4";
   import viedo2 from "../assets/video3.mp4";
+  import viedo3 from "../assets/My_Video1.mp4";
 
   const ViedoComponents = () => {
     return (
@@ -30,6 +31,11 @@
           <SwiperSlide>
             <video autoPlay loop muted className="video-slide">
               <source src={viedo1} type="video/mp4" />
+            </video>
+          </SwiperSlide>
+          <SwiperSlide>
+            <video autoPlay loop muted className="video-slide">
+              <source src={viedo3} type="video/mp4" />
             </video>
           </SwiperSlide>
           
